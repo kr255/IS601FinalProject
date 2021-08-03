@@ -25,3 +25,7 @@ class Config:
     SQLALCHEMY_DATABASE_URI = environ.get("SQLALCHEMY_DATABASE_URI")
     SQLALCHEMY_ECHO = False
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+    LESS_BIN = environ.get('LESS_BIN')
+    ASSETS_DEBUG = environ.get('ASSETS_DEBUG')
+    LESS_RUN_IN_DEBUG = environ.get('LESS_RUN_IN_DEBUG')
