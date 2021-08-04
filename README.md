@@ -8,7 +8,7 @@ This marks the end of IS601. The final project entailed following Creating Your 
 Since I cant read directions I failed to create branches for each step of the tutorial but created a commit for each step.
 As a result I will timestamp each step with a commit id plus the word document with pictures of the project running in various steps.
 
-#### Instead of branches I did commits, I read branches as commits. I can assure you I tried my best to follow the tutorial in the grace period awarded by the professor. 
+#### Instead of branches I did commits, I made the mistake of reaching branches as commits in the directions. However, I can assure you I tried my best to follow the tutorial in the grace period awarded by the professor. Will follow it thoroughly after submitting. 
 
 0c707099626e1b86c582e139ea42a2a7a51b6f5c: First Step of the tutorial
 
@@ -35,3 +35,8 @@ As for the last commit (395beaafa9340cd168318cfeb928e34a0f68a529) the registrati
 # Take aways from the last project and the class.
 
 I wish I had taken this class in a regular semester. It would of been even more beneficial to me in my career. 
+
+#### To do after initial submit
+Refactor the code to make all steps work with each other
+Add a travis build file for build succession badge
+Expand upon the db, instead of sqllite, use mysql. 
