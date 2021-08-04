@@ -1,7 +1,7 @@
 # IS601FinalProject
 
-This marks the end of IS601. The final project entailed following Creating Your First Flask Application(Creating Your First Flask Application
-).
+This marks the end of IS601. The final project entailed following Creating Your First Flask Application(https://hackersandslackers.com/your-first-flask-application).
+
 -------  
 ## Things to Consider
 
