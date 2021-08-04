@@ -6,7 +6,7 @@ This marks the end of IS601. The final project entailed following Creating Your 
 ## Things to Consider
 
 Since I cant read directions I failed to create branches for each step of the tutorial but created a commit for each step.
-As a result I will timestamp each step with a commit id plus the word document with pictures of the project running in various steps.
+As a result I will timestamp each step with a commit id plus the word document with pictures of the project running at various steps.
 
 #### Instead of branches I did commits, I made the mistake of reaching branches as commits in the directions. However, I can assure you I tried my best to follow the tutorial in the grace period awarded by the professor. Will follow it thoroughly after submitting. 
 
