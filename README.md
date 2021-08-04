@@ -32,4 +32,6 @@ As for the last commit (395beaafa9340cd168318cfeb928e34a0f68a529) the registrati
 
 ------ 
 
-Take aways from the last project and the class. 
+# Take aways from the last project and the class.
+
+I wish I had taken this class in a regular semester. It would of been even more beneficial to me in my career. 
